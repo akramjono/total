@@ -1,0 +1,76 @@
+{
+  "total": [
+    {
+      "image": "/imgs/chair.svg",
+      "subtitle": "Chair",
+      "title": "White Aesthetic Chair",
+      "text": "Combination of wood and wool",
+      "price": "$63.47",
+      "id": 1
+    },
+    {
+      "image": "/imgs/bookshelf.svg",
+      "subtitle": "Cupboard",
+      "title": "Wooden Cupboard 3 Row",
+      "text": "Combination of wood and wool",
+      "price": "$79.88",
+      "id": 2
+    },
+    {
+      "image": "/imgs/lounge.svg",
+      "subtitle": "Chair",
+      "title": "Minimalist Lounge Chair",
+      "text": "Combination of wood and wool",
+      "price": "$14.74",
+      "id": 3
+    },
+    {
+      "image": "/imgs/desk.svg",
+      "subtitle": "Table",
+      "title": "Working Desk Setup",
+      "text": "Combination of wood and wool",
+      "price": "$47.90",
+      "id": 4
+    },
+    {
+      "image": "/imgs/cuppboard.svg",
+      "subtitle": "Cupboard",
+      "title": "Minimalist White Cuppboard",
+      "text": "Combination of wood and wool",
+      "price": "$40.73",
+      "id": 5
+    },
+    {
+      "image": "/imgs/table.svg",
+      "subtitle": "Table",
+      "title": "Wooden Dining Table",
+      "text": "Combination of wood and wool",
+      "price": "$16.50",
+      "id": 6
+    },
+    {
+      "image": "/imgs/vase.svg",
+      "subtitle": "Decoration",
+      "title": "White Minimalist Vase",
+      "text": "Combination of wood and wool",
+      "price": "$58.39",
+      "id": 7
+    },
+    {
+      "image": "/imgs/clay.svg",
+      "subtitle": "Decoration",
+      "title": "Plant With Clay Stand",
+      "text": "Combination of wood and wool",
+      "price": "$61.49",
+      "id": 8
+    },
+    {
+      "image": "/imgs/mirror.svg",
+      "subtitle": "Decoration",
+      "title": "Oval Gold Mirror",
+      "text": "Combination of wood and wool",
+      "price": "$32.43",
+      "id": 9
+    }
+  ]
+}
